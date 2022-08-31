@@ -1,0 +1,14 @@
+TgCrypto
+pyrogram
+py-tgcalls
+requests
+aiohttp
+aiofiles
+asyncio
+wget
+python-arq
+youtube-search-python
+yt-dlp
+python-dotenv
+gTTS
+googletrans
